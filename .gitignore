@@ -1,0 +1,12 @@
+# Erlang
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+
+# Elixir
+/_build
+/deps
+*.ez
